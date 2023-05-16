@@ -5,7 +5,7 @@
 - 📫 You can reach me at obengeric.3958@gmail.com
 
 <img
-     src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"
 />
 <!---
 Eric-Obeng/Eric-Obeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
