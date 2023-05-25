@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [*@Eric Obeng*](https://githuh.com/Eric-Obeng)
+<h1 align="center"> 👋 Hi, I’m [*@Eric Obeng*](https://githuh.com/Eric-Obeng) </h1
 
 - 👀 I'm interested in Building and maintaing web apps,and passionate in software engineering.
 - 🌱 I'm currently enrolled in ALX-SE learning Python, Javascript, C programming Language
