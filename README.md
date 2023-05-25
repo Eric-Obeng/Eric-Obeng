@@ -6,7 +6,9 @@
 - 📫 You can reach me at obengeric.3958@gmail.com
      
 <h1 align="center">Connect with me</h1>
-
+<div align="center">
+[GitHub](https://github.com/Eric-Obeng) • [Twitter](https://twitter.com/tech_psalmist) • [LinkedIn](https://www.linkedin.com/in/eric-obeng-66a839179)
+<div>
 <h1 align="center">Technology Tools and Stack</h1>
 
 <div align="center">
