@@ -5,6 +5,8 @@
 - 💞️ looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
 - 📫 You can reach me at obengeric.3958@gmail.com
 
+<h1 align="center">Technology Tools and Stack</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&layout=donut)](https://githuh.com/Eric-Obeng/github-readme-stats)
 
 <img
