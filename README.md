@@ -7,7 +7,7 @@
      
 <h1 align="center">Connect with me</h1>
 <div align="center">
-     <span href="https://github.com/Eric-Obeng">GitHub</span> • [Twitter](https://twitter.com/tech_psalmist) • [LinkedIn](https://www.linkedin.com/in/eric-obeng-66a839179)
+     <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="linkfree.io/Eric-Obeng">LinkFree</a>
 <div>
 <h1 align="center">Technology Tools and Stack</h1>
 
