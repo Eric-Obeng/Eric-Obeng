@@ -25,11 +25,17 @@
      
 <h1 align="center">Github Streak</h1>
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&layout=donut)](https://githuh.com/Eric-Obeng/github-readme-stats)
 
 <img
      src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"
 />
+     
+</div>
+  
+     
 <!---
 Eric-Obeng/Eric-Obeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
