@@ -28,6 +28,8 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&layout=donut)](https://githuh.com/Eric-Obeng/github-readme-stats)
+     
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eric-Obeng&hide_border=true)](https://git.io/streak-stats)
 
 <img
      src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"
