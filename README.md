@@ -4,6 +4,8 @@
 - 🌱 I'm currently enrolled in ALX-SE learning Python, Javascript, C programming Language
 - 💞️ looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
 - 📫 You can reach me at obengeric.3958@gmail.com
+     
+<h1 align="center">Connect with me</h1>
 
 <h1 align="center">Technology Tools and Stack</h1>
 
