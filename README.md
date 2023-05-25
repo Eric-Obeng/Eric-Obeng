@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://githuh.com/Eric-Obeng" color="black">👋 Hi, I’m <strong>Eric Obeng </strong> </a></h1
+<h1 align="center">👋 Hi, I’m <strong>Eric Obeng </strong></h1
 
 - 👀 I'm interested in Building and maintaing web apps,and passionate in software engineering.
 - 🌱 I'm currently enrolled in ALX-SE learning Python, Javascript, C programming Language
@@ -20,6 +20,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
 <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
 </div>
+
+<br />
+     
+<h1 align="center">Github Streak</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&layout=donut)](https://githuh.com/Eric-Obeng/github-readme-stats)
 
