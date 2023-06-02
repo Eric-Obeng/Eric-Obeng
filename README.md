@@ -30,8 +30,6 @@
 <h1 align="center">Github Streak</h1>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&layout=donut)](https://githuh.com/Eric-Obeng/github-readme-stats)
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eric-Obeng&hide_border=true)](https://git.io/streak-stats)
 
