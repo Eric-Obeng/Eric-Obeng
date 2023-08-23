@@ -36,12 +36,14 @@
 <img
      src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"
 />
+
      
 </div>
     
 
 ---
-![](https://komarev.com/ghpvc/?username=Eric-Obeng&label=Visitors+Count&color=brightgreen)
+[![wakatime](https://wakatime.com/badge/user/d88c6df6-e7bd-44fb-a393-4d92f92d7a01.svg)](https://wakatime.com/@d88c6df6-e7bd-44fb-a393-4d92f92d7a01)
+ ![](https://komarev.com/ghpvc/?username=Eric-Obeng&label=Visitors+Count&color=brightgreen)
   
      
 <!---
