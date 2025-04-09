@@ -4,11 +4,18 @@
 - 🌱 I'm currently enrolled in ALX-SE learning Python, Javascript, C programming Language
 - 💞️ looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
 - 📫 You can reach me at obengeric.3958@gmail.com
-     
-<h1 align="center">Connect with me</h1>
+
+<br />
+
+
 <div align="center">
-     <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="https://linkfree.io/Eric-Obeng">LinkFree</a>
-<div>
+     
+<!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Obeng&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/ub0KRDkGzroPuH57SfU19AmF4AYP2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ub0KRDkGzroPuH57SfU19AmF4AYP2?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+
+</div>    
+
 <h1 align="center">Technology Tools and Stack</h1>
 
 <div align="center">
@@ -31,14 +38,15 @@
 
 <div align="center">
      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eric-Obeng&hide_border=true)](https://git.io/streak-stats)
-
-<img
-     src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"
-/>
-
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eric-Obeng&hide_border=true)](https://git.io/streak-stats) | <img src="https://github-readme-stats.vercel.app/api?username=Eric-Obeng&show_icons=true&theme=darcula"/> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
      
 </div>
+
+<h1 align="center">Connect with me</h1>
+<div align="center">
+     <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="https://linkfree.io/Eric-Obeng">LinkFree</a>
+<div>
     
 
 ---
