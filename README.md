@@ -48,6 +48,7 @@
      <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="https://linkfree.io/Eric-Obeng">LinkFree</a>
 <div>
     
+<br />
 
 ---
 [![wakatime](https://wakatime.com/badge/user/d88c6df6-e7bd-44fb-a393-4d92f92d7a01.svg)](https://wakatime.com/@d88c6df6-e7bd-44fb-a393-4d92f92d7a01)
