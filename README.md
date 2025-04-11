@@ -5,7 +5,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 ## 💻 Tech Stack
 
 - **Frontend:** Angular (v17+), React.js, Vue 3 (Composition API), Stencil.js  
-- **Mobile:** React Native  
+- **Mobile:** React Native Expo 
 - **Backend:** Node.js, Express.js, MongoDB, Supabase  
 - **Styling & UI:** Tailwind CSS, SCSS, Storybook (for design systems)   
 - **Testing:** Jest 
