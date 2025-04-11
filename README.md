@@ -1,10 +1,22 @@
-<h1 align="center">👋 Hi, I’m <strong>Eric Obeng </strong></h1
+# 👋 Hello, I'm Eric Obeng
 
-- 👀 I'm interested in Building and maintaing web apps,and passionate in software engineering.
-- 🌱 I'm currently enrolled in ALX-SE learning Python, Javascript, C programming Language
-- 💞️ looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
-- 📫 You can reach me at obengeric.3958@gmail.com
+Full-stack Engineer with a deep passion for building exceptional, user-centric digital experiences. I thrive on transforming complex challenges into intuitive, scalable, and high-performance solutions. With a strong foundation in both frontend and backend technologies, I enjoy crafting clean, maintainable code that brings ideas to life—from interactive user interfaces to robust server-side architectures. I’m driven by curiosity, continuous learning, and the desire to make a meaningful impact through technology.
 
+## 💻 Tech Stack
+
+- **Frontend:** Angular (v17+), React.js, Vue 3 (Composition API), Stencil.js  
+- **Mobile:** React Native  
+- **Backend:** Node.js, Express.js, MongoDB, Supabase  
+- **Styling & UI:** Tailwind CSS, SCSS, Storybook (for design systems)   
+- **Testing:** Jest 
+- **Tools & Workflow:** Git, GitHub, CI/CD (basic), RESTful APIs, Agile/Scrum  
+- **Learning Focus:** Scalable architecture, clean code, backend systems, full-stack production-readiness
+
+
+## 🚀 What I Do
+- Build scalable web applications with modern JavaScript frameworks
+- Develop cross-platform mobile solutions using React Native
+- Create robust backend systems with Node.js and Expres
 <br />
 
 
