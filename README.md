@@ -12,7 +12,6 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 - **Tools & Workflow:** Git, GitHub, CI/CD (basic), RESTful APIs, Agile/Scrum  
 - **Learning Focus:** Scalable architecture, clean code, backend systems, full-stack production-readiness
 
-
 ## 🚀 What I Do
 - Build scalable web applications with modern JavaScript frameworks
 - Develop cross-platform mobile solutions using React Native
