@@ -55,7 +55,7 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <h1 align="center">Connect with me</h1>
 <div align="center">
-     <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="https://linkfree.io/Eric-Obeng">LinkFree</a>
+   <a href="https://github.com/Eric-Obeng">GitHub <a/> • <a href="https://twitter.com/tech_psalmist">Twitter</a> • <a href="https://www.linkedin.com/in/eric-obeng-66a839179">LinkedIn</a> • <a href="https://linkfree.io/Eric-Obeng">LinkFree</a>
 <div>
     
 <br />
