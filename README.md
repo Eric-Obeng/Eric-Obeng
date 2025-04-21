@@ -64,7 +64,6 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 [![wakatime](https://wakatime.com/badge/user/d88c6df6-e7bd-44fb-a393-4d92f92d7a01.svg)](https://wakatime.com/@d88c6df6-e7bd-44fb-a393-4d92f92d7a01)
  ![](https://komarev.com/ghpvc/?username=Eric-Obeng&label=Visitors+Count&color=brightgreen)
   
-
 <!---
 Eric-Obeng/Eric-Obeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
