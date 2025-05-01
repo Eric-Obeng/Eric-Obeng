@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Eric Obeng
 
+
 Full-stack Engineer with a deep passion for building exceptional, user-centric digital experiences. I thrive on transforming complex challenges into intuitive, scalable, and high-performance solutions. With a strong foundation in both frontend and backend technologies, I enjoy crafting clean, maintainable code that brings ideas to life—from interactive user interfaces to robust server-side architectures. I’m driven by curiosity, continuous learning, and the desire to make a meaningful impact through technology.
 
 ## 💻 Tech Stack
