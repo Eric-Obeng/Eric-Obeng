@@ -63,9 +63,13 @@ Full-stack Engineer with a deep passion for building exceptional, user-centric d
 
 <h1 align="center">Github Trophies 🏆</h1>
 <div align="center">
+     
 ![](https://github-profile-trophy.vercel.app/?username=Eric-Obeng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
----
+
+<br />
+
 [![wakatime](https://wakatime.com/badge/user/d88c6df6-e7bd-44fb-a393-4d92f92d7a01.svg)](https://wakatime.com/@d88c6df6-e7bd-44fb-a393-4d92f92d7a01)
  ![](https://komarev.com/ghpvc/?username=Eric-Obeng&label=Visitors+Count&color=brightgreen)
   
